@@ -139,11 +139,6 @@ GitHub.sublime-settings
 
 *.csv
 
-#files
-Sentiment_Analysis_Model_model.pkl
-Sentiment_Analysis_Model.h5
-authentication\requirements.txt
-requirements.txt
 
 #folder
 venv
